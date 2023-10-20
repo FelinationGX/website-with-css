@@ -1,1 +1,1 @@
-# website-with-css
+This is a website layout coded by myself. This is a task in TheOdinProject.
